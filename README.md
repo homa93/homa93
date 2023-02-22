@@ -1,4 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Homa Maleki===================================================================================================================================Data Scientist--------------I am a data scientist who loves everything about artificial intelligence!* 🌍  I'm based in Istanbul* ✉️  You can contact me at [homamaleki98@gmail.com](mailto:homamaleki98@gmail.com)* 🧠  I'm learning Python* 🤝  I'm open to collaborating on Data science projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Homa Maleki
+===================================================================================================================================
+
+Data Scientist
+--------------
+
+I am a data scientist who loves everything about artificial intelligence!
+
+* 🌍  I'm based in Istanbul
+* ✉️  You can contact me at [homamaleki98@gmail.com](mailto:homamaleki98@gmail.com)
+* 🧠  I'm learning Python
+* 🤝  I'm open to collaborating on Data science projects
 
 ### Skills
 
