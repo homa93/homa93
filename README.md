@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I am a data scientist who loves everything about artificial intelligence!
+Leveraging data to drive business decisions as a data scientist :)
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [homamaleki98@gmail.com](mailto:homamaleki98@gmail.com)
